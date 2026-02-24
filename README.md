@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natan-vn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&custom_title=Top%20Languages" height="150" alt="languages graph"  />
+  ![pacman graph](https://raw.githubusercontent.com/natan-vn/natan-vn/output/pacman-contribution-graph.svg)
 </div>
 
 ###
