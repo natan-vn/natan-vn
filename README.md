@@ -1,70 +1,52 @@
-<h2 align="left">Olá! <br>Sou Natanael Viana - Profissional DevOps/SRE!</h2>
+# Natanael | SRE / DevOps Engineer
 
-###
+Graduado em Redes de Computadores pelo SENAI, atuo com foco em SRE e DevOps, especialmente em ambientes on-premises e cloud híbrida.
 
-<p align="left">Olá! Me chamo Natanael, sou formado em Redes de Computadores pelo SENAI e atualmente possuo ampla atuação em DevOps/SRE. Possuo domínio em diversos papéis que desempenhei na área, como monitoramento e observabilidade, configuração de serviços de rede, etc.Atualmente, tenho como principal tarefa, exercer tarefas de SRE/DevOps em ambientes on-premises de Cloud híbrida, tendo o certificado Associate Cloud Engineer pela GCP. Sempre dedicado na obtenção de certificações e domínio das tecnologias mais recentes no mercado de TI, busco contribuir com ambientes operacionais eficiente, valorizando sempre o bom empenho com colegas e a tecnologia como recurso de crescimento das empresas e sociedade.</p>
+Possuo experiência prática com monitoramento, observabilidade, configuração de serviços de rede e automação de infraestrutura. Atualmente desempenho atividades de SRE/DevOps em ambientes híbridos, com certificação **Google Cloud Associate Cloud Engineer**.
 
-###
+Sou comprometido com evolução contínua, certificações técnicas e aplicação de boas práticas que promovam eficiência operacional, confiabilidade e crescimento sustentável das organizações.
 
-###
+---
 
-<h3 align="left">📊 GitHub Status</h3>
+## 🚀 Tecnologias e Ferramentas
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natan-vn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan-vn&layout=compact&langs_count=6&theme=dracula"/>
-</div>
+### Cloud & Containers
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![OpenShift](https://skillicons.dev/icons?i=openshift)
 
-###
+### Sistemas Operacionais
+![Linux](https://skillicons.dev/icons?i=linux)
+![RedHat](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg)
+![CentOS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg)
+![Fedora](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg)
+![FreeBSD](https://skillicons.dev/icons?i=bsd)
 
-###
+### Observabilidade & Monitoramento
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+![Grafana](https://skillicons.dev/icons?i=grafana)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=openshift" height="30" alt="redhatopenshift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="30" alt="centos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bsd" height="30" alt="freebsd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
-</div>
+### CI/CD & DevOps
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Git](https://skillicons.dev/icons?i=git)
+![Nginx](https://skillicons.dev/icons?i=nginx)
 
-###
+### Linguagens & Banco de Dados
+![JavaScript](https://skillicons.dev/icons?i=js)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![NextJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=natan-vn&layout=compact&theme=dracula)
+
+---
+
+## 📌 Objetivo
+
+Construir e manter ambientes resilientes, escaláveis e observáveis, aplicando princípios de confiabilidade, automação e melhoria contínua.
