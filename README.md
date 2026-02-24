@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/182679442?v=4" 
-       width="140" 
+       width="200" 
        align="right" 
        style="border-radius: 8px;" />
 </p>
