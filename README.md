@@ -1,6 +1,13 @@
 # Natanael | SRE / DevOps Engineer
 
-Graduado em Redes de Computadores pelo SENAI, atuo com foco em SRE e DevOps, especialmente em ambientes on-premises e cloud híbrida.
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/182679442?v=4" 
+       width="140" 
+       align="right" 
+       style="border-radius: 8px;" />
+</p>
+
+Técnico em Redes de Computadores pelo SENAI, atuo com foco em SRE e DevOps, especialmente em ambientes on-premises e cloud híbrida.
 
 Possuo experiência prática com monitoramento, observabilidade, configuração de serviços de rede e automação de infraestrutura. Atualmente desempenho atividades de SRE/DevOps em ambientes híbridos, com certificação **Google Cloud Associate Cloud Engineer**.
 
