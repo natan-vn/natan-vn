@@ -6,10 +6,6 @@
 
 ###
 
-<div align="center">
-  ![pacman graph](https://raw.githubusercontent.com/natan-vn/natan-vn/output/pacman-contribution-graph.svg)
-</div>
-
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/182679442?v=4"  />
