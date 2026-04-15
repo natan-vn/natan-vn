@@ -7,15 +7,22 @@
        style="border-radius: 8px;" />
 </p>
 
-Técnico em Redes de Computadores pelo SENAI, atuo com foco em SRE e DevOps, especialmente em ambientes on-premises e cloud híbrida.
+💻 🔭 DevOps / Site Reliability Engineer (SRE) com foco na construção de sistemas confiáveis, escaláveis e observáveis.
 
-Possuo experiência prática com monitoramento, observabilidade, configuração de serviços de rede e automação de infraestrutura. Atualmente desempenho atividades de SRE/DevOps em ambientes híbridos, com certificação **Google Cloud Associate Cloud Engineer**.
-
-Sou comprometido com evolução contínua, certificações técnicas e aplicação de boas práticas que promovam eficiência operacional e confiabilidade.
+🎓 Técnico em Redes de Computadores (SENAI)  
+☁️ Certificado Google Cloud Associate Cloud Engineer  
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Sobre mim
+
+Atuo com SRE e DevOps em ambientes híbridos (on-premises + cloud), com experiência prática na automação de infraestrutura, observabilidade e operação de sistemas distribuídos.
+
+Tenho forte atuação na implementação de stacks modernas de monitoramento e observabilidade, além da automação de processos operacionais.
+
+---
+
+## Tecnologias e Ferramentas
 
 ### Cloud & Containers
 <p align="left">
